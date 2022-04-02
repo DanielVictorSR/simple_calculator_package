@@ -1,0 +1,34 @@
+Metadata-Version: 2.1
+Name: simple-calculator-br-en
+Version: 0.0.1
+Summary: Simple Calc
+Home-page: https://github.com/DanielVictorSR/simple_calculator_package.git
+Author: Daniel Victor
+License: UNKNOWN
+Platform: UNKNOWN
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+
+# package_name
+
+Description. 
+The package simple_calculator is used to:
+	- simple calc operation
+	- sum, subtract, multiply or divide
+	- just once type operator per time (+ | - | * | /)
+	- eg.: 10+10+10+10 or 20-20-20-20 ...
+
+## Installation
+
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package_name
+
+```bash
+pip install simple_calculator_br-en
+```
+
+## Author
+Daniel Victor
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
+
